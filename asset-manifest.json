@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Travel-Journal/static/css/main.3414b147.css",
+    "main.js": "/Travel-Journal/static/js/main.bc8ac443.js",
+    "static/media/florence.jpg": "/Travel-Journal/static/media/florence.3dabf0895c2dababfd2e.jpg",
+    "static/media/amsterdam.jpg": "/Travel-Journal/static/media/amsterdam.5b5471ce9cb2fed737cc.jpg",
+    "static/media/brussels.jpg": "/Travel-Journal/static/media/brussels.ad0ddd1c47807da4ff05.jpg",
+    "static/media/saragossa.jpg": "/Travel-Journal/static/media/saragossa.36b192061c2b51860fd0.jpg",
+    "static/media/luxor.jpg": "/Travel-Journal/static/media/luxor.3680faa82afa5dfa61f3.jpg",
+    "static/media/yellowstone.jpg": "/Travel-Journal/static/media/yellowstone.0259f9db3ea8c5b064df.jpg",
+    "static/media/earth.svg": "/Travel-Journal/static/media/earth.10ddb4ca94ecf3a9f9b4a03e41ebeb6e.svg",
+    "index.html": "/Travel-Journal/index.html",
+    "static/media/location.svg": "/Travel-Journal/static/media/location.1f226562855444fb8b7486883ccc7a0c.svg",
+    "main.3414b147.css.map": "/Travel-Journal/static/css/main.3414b147.css.map",
+    "main.bc8ac443.js.map": "/Travel-Journal/static/js/main.bc8ac443.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3414b147.css",
+    "static/js/main.bc8ac443.js"
+  ]
+}
